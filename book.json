@@ -1,0 +1,22 @@
+{
+  "book": [
+    {
+      "author": "Micheal reas",
+      "category": "reference",
+      "price": 150.3,
+      "title": "sayings of the Century"
+    },
+    {
+      "author": "Jordan reas",
+      "category": "novel",
+      "price": 200,
+      "title": "Lords of ring"
+    },
+    {
+      "author": "Dev Ghadvi",
+      "category": "novel",
+      "price": 200,
+      "title": "Lords of ring"
+    }
+  ]
+}
